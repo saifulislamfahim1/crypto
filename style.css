@@ -1,0 +1,539 @@
+body{
+    background-color: #13141c;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.nav-link:hover{
+color: #e85a3c;
+}
+
+/* this is Everyday start */
+.text1{
+    margin-top: 70px;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.text2{
+    font-size: 25px;
+    padding: 20px;
+    font-weight: 700;
+    box-sizing: border-box;
+    color: #7b7b7f;
+}
+.button1{
+    height: 60px;
+    width: 130px;
+    border-radius: 5px;
+    border: 2px solid #e85a3c;
+    background-color: #e85a3c;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-left: 20px;
+}
+.button1:hover{
+    background-color: #13141c;
+    color: #e85a3c;
+}
+.download{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.download:hover{
+    color: #e85a3c;
+}
+.fa-file-pdf{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.fa-file-pdf:hover{
+    color: #e85a3c;
+}
+.fa-discord{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.fa-discord:hover{
+    color: #e85a3c;
+}
+.fa-telegram{
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.fa-telegram:hover{
+    color: #e85a3c;
+}
+.fa-twitter-square{
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.fa-twitter-square:hover{
+    color: #e85a3c;
+}
+.fa-github{
+    font-size: 30px;
+    color: white;
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.fa-github:hover{
+    color: #e85a3c;
+}
+.text3{
+    font-size: 17px;
+    color: #7b7b7f;
+    font-weight: 700;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#text1{
+    width: 100%;
+}
+#text1 #text11{
+    width: 100%;
+}
+#text2{
+    width: 100%;
+}
+#text2 #text22{
+    width: 100%;
+}
+
+#button1{
+    width: 100%;
+}
+#button1 #button11{
+    width: 11%;
+}
+
+#icon11{
+    width: 100%;
+}
+#icon11 #icon111{    
+    width: 100%;
+}
+
+#icon{
+    width: 100%;
+}
+#icon #icon1{
+    width: 100%;
+}
+#text3{
+    width: 100%;
+}
+#text3 #text33{
+    width: 100%;
+}
+/* this is Everyday end */
+
+/* this is FEATURES start */
+.featurestext{
+    font-size: 15px;
+    font-weight: 700;
+    color: #7b7b7f;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+.transactions{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    margin-left: 20px;
+}
+
+#features1{
+    width: 100%;
+}
+#features11{
+    width: 100%;
+}
+/* this is FEATURES end */
+
+/* this is  Public Blockchain start */
+#blockchain{
+    width: 100%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 70px;
+}
+#blockchain #blockchain1{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 3px solid #292a31;
+    background-color: #1e1f26;
+    border-radius: 10px;
+    margin-top: 20px;
+    float: left;
+}
+#blockchain #blockchain1:hover{
+    background-color: #13141c;
+    border: 3px solid #e85a3c;
+}
+#blockchain #blockchain2{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 3px solid #292a31;
+    background-color: #1e1f26;
+    border-radius: 10px;
+    margin-top: 20px;
+    float: left;
+}
+#blockchain #blockchain2:hover{
+    background-color: #13141c;
+    border: 3px solid #e85a3c;
+}
+#blockchain #blockchain3{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 3px solid #292a31;
+    background-color: #1e1f26;
+    border-radius: 10px;
+    margin-top: 20px;
+    float: left;
+}
+#blockchain #blockchain3:hover{
+    background-color: #13141c;
+    border: 3px solid #e85a3c;
+}
+.fa-globe{
+    font-size: 30px;
+    color: #e85a3c;
+}
+.fa-chart-bar{
+    font-size: 30px;
+    color: #e85a3c;
+}
+.fa-database{
+    font-size: 30px;
+    color: #e85a3c;
+}
+.publictext1{
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.coins{
+    font-size: 15px;
+    color: #7b7b7f;
+    font-weight: 700;
+}
+/* this is  Public Blockchain end */
+
+/* this is TECHNOLOGY start */
+#technology1{
+    width: 100%;
+}
+#technologytext2{
+    width: 100%;
+}
+.technologytext1{
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 20px;
+    color: #7b7b7f;
+}
+.technologytext2{
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    margin-left: 20px;
+}
+/* this is TECHNOLOGY end */
+
+/* this is Routefire start */
+#routefire{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#routefire #routefire1{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#routefire #routefire2{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#routefire #routefire3{
+    width: 33.3333333%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.numbar{
+    font-size: 50px;
+    color: #e85a3c;
+    font-weight: 700;
+}
+.trades{
+    font-size: 15px;
+    color: #7b7b7f;
+    font-weight: 700;
+}
+/* this is Routefire end */
+
+/* this is products start */
+#productsstart{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 120px;
+}
+#productsend{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.products{
+    color: white;
+    font-weight: 700;
+    margin-top: 120px;
+}
+.libraries{
+    color: #e85a3c;
+    font-weight: 700;
+}
+/* this is products end */
+
+/* this is TEAM start */
+.team{
+    color: #7b7b7f;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 100px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.developers{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#team{
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+}
+#developers{
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+}
+/* this is TEAM end */
+
+/* this is Bryan Oliver start */
+#bryanstart{
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 100px;
+}
+#bryanstart #bryanone{
+    width: 33.3333333%;
+    border: 3px solid #1e1f26;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#bryanstart #bryantwo{
+    width: 33.3333333%;
+    border: 3px solid #1e1f26;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#bryanstart #bryanthree{
+    width: 33.3333333%;
+    border: 3px solid #1e1f26;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#bryanstart #bryanone:hover{
+    border: 3px solid #e85a3c;
+}
+#bryanstart #bryantwo:hover{
+    border: 3px solid #e85a3c;
+}
+#bryanstart #bryanthree:hover{
+    border: 3px solid #e85a3c;
+}
+.oliver{
+    font-weight: 700;
+    margin-top: 30px;
+    color: white;
+}
+.advisor{
+    font-size: 20px;
+    font-weight: 700;
+    color: #7b7b7f;
+}
+/* this is Bryan Oliver end */
+
+/* this is ROADMAP start */
+#roadmap{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+#roadmapone{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+#roadmapstart1{
+    width: 100%;
+    float: left;
+    margin-bottom: 100px;
+}
+#roadmapstart1 #roadmapstart{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+#roadmapstart1 #roadmapend{
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+.textone{
+    font-size: 20px;
+    color: #7b7b7f;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.number1{
+    font-size: 20px;
+    color: #7b7b7f;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    align-items: end;
+}
+.roadmap{
+    font-size: 20px;
+    color: #7b7b7f;
+    font-weight: 700;
+}
+.quarter{
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+/* this is ROADMAP end */
+
+/* this is NEWS start */
+#news{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+#news1{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 0%;
+    padding-top: 0%; 
+}
+
+#imagethree{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    margin-bottom: 80px;
+}
+#imagethree #imgeone{
+    width: 33.3333333%;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#imagethree #imgetwo{
+    width: 33.3333333%;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#imagethree #imgethree{
+    width: 33.3333333%;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.community1{
+    color: #e85a3c;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.with{
+    color: white;
+    font-weight: 700;
+}
+.with:hover{
+    color: #e85a3c;
+}
+.copy{
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 70px;
+}
+#copy{
+    width: 100%;
+}
+/* this is NEWS end */

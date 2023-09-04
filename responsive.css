@@ -1,0 +1,853 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain2{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain3{
+        width: 33.3333333%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 33.3333333%;
+    }
+    #routefire #routefire2{
+        width: 33.3333333%;
+    }
+    #routefire #routefire3{
+        width: 33.3333333%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryantwo{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryanthree{
+        width: 33.3333333%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 50%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 50%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 33.3333333%;
+    }
+    #imagethree #imgetwo{
+        width: 33.3333333%;
+    }
+    #imagethree #imgethree{
+        width: 33.3333333%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain2{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain3{
+        width: 33.3333333%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 33.3333333%;
+    }
+    #routefire #routefire2{
+        width: 33.3333333%;
+    }
+    #routefire #routefire3{
+        width: 33.3333333%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryantwo{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryanthree{
+        width: 33.3333333%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 50%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 50%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 33.3333333%;
+    }
+    #imagethree #imgetwo{
+        width: 33.3333333%;
+    }
+    #imagethree #imgethree{
+        width: 33.3333333%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain2{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain3{
+        width: 33.3333333%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 33.3333333%;
+    }
+    #routefire #routefire2{
+        width: 33.3333333%;
+    }
+    #routefire #routefire3{
+        width: 33.3333333%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryantwo{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryanthree{
+        width: 33.3333333%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 50%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 50%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 33.3333333%;
+    }
+    #imagethree #imgetwo{
+        width: 33.3333333%;
+    }
+    #imagethree #imgethree{
+        width: 33.3333333%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+
+    
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain2{
+        width: 33.3333333%;
+    }
+    #blockchain #blockchain3{
+        width: 33.3333333%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 33.3333333%;
+    }
+    #routefire #routefire2{
+        width: 33.3333333%;
+    }
+    #routefire #routefire3{
+        width: 33.3333333%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryantwo{
+        width: 33.3333333%;
+    }
+    #bryanstart #bryanthree{
+        width: 33.3333333%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 50%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 50%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 33.3333333%;
+    }
+    #imagethree #imgetwo{
+        width: 33.3333333%;
+    }
+    #imagethree #imgethree{
+        width: 33.3333333%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 100%;
+    }
+    #blockchain #blockchain2{
+        width: 100%;
+    }
+    #blockchain #blockchain3{
+        width: 100%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 100%;
+    }
+    #routefire #routefire2{
+        width: 100%;
+    }
+    #routefire #routefire3{
+        width: 100%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 100%;
+    }
+    #bryanstart #bryantwo{
+        width: 100%;
+    }
+    #bryanstart #bryanthree{
+        width: 100%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 100%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 100%;
+    }
+    #imagethree #imgetwo{
+        width: 100%;
+    }
+    #imagethree #imgethree{
+        width: 100%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* this is Everyday  */
+    #text1 #text11{
+        width: 100%;
+    }
+
+    #text2 #text22{
+        width: 100%;
+    }
+    
+    #button1 #button11{
+        width: 100%;
+    }
+    #icon11 #icon111{    
+        width: 100%;
+    }
+    
+    #icon #icon1{
+        width: 100%;
+    }
+    #text3 #text33{
+        width: 100%;
+    }
+    /* this is Everyday end */
+
+    /* this is FEATURES start */
+    #features1{
+        width: 100%;
+    }
+    #features11{
+        width: 100%;
+    }
+    /* this is FEATURES end */
+
+    /* this is  Public Blockchain start */
+    #blockchain #blockchain1{
+        width: 100%;
+    }
+    #blockchain #blockchain2{
+        width: 100%;
+    }
+    #blockchain #blockchain3{
+        width: 100%;
+    }
+    /* this is  Public Blockchain end */
+
+    /* this is TECHNOLOGY start */
+    #technology1{
+        width: 100%;
+    }
+    #technologytext2{
+        width: 100%;
+    }
+    /* this is TECHNOLOGY end */
+
+    /* this is Routefire start */
+    #routefire #routefire1{
+        width: 100%;
+    }
+    #routefire #routefire2{
+        width: 100%;
+    }
+    #routefire #routefire3{
+        width: 100%;
+    }
+    /* this is Routefire start */
+
+    /* this is products start */
+    #productsstart{
+        width: 100%;
+    }
+    #productsend{
+        width: 100%;
+    }
+    /* this is products end */
+
+    /* this is TEAM start */
+    #team{
+        width: 100%;
+    }
+    #developers{
+        width: 100%;
+    }
+    /* this is TEAM end */
+
+    /* this is Bryan Oliver start */
+    #bryanstart #bryanone{
+        width: 100%;
+    }
+    #bryanstart #bryantwo{
+        width: 100%;
+    }
+    #bryanstart #bryanthree{
+        width: 100%;
+    }
+    /* this is Bryan Oliver end */
+
+    /* this is ROADMAP start */
+    #roadmap{
+        width: 100%;
+    }
+    #roadmapone{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapstart{
+        width: 100%;
+    }
+    #roadmapstart1 #roadmapend{
+        width: 100%;
+    }
+    /* this is ROADMAP start */
+
+    /* this is NEWS start */
+    #news{
+        width: 100%;
+    }
+    #news1{
+        width: 100%;
+    }
+    #imagethree #imgeone{
+        width: 100%;
+    }
+    #imagethree #imgetwo{
+        width: 100%;
+    }
+    #imagethree #imgethree{
+        width: 100%;
+    }
+
+    #copy{
+        width: 100%;
+    }
+    /* this is NEWS end */
+    
+  }
